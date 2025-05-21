@@ -1,0 +1,16 @@
+{
+  "name": "GM NFT Frame",
+  "short_name": "GM NFT",
+  "description": "Mint your GM NFT for 1 tMON on Monad Testnet",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#4a32a8",
+  "theme_color": "#4a32a8",
+  "icons": [
+    {
+      "src": "gm_nft.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+}
